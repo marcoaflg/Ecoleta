@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" />
-</h1>
-
 <h1>
 <img src="https://cdn.discordapp.com/attachments/705772630577250324/719235376740565072/Capa.png" />
 </h1>
